@@ -1,0 +1,4 @@
+(executable
+ (public_name hamming_code)
+ (name main)
+ (libraries hamming_code))
